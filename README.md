@@ -1,7 +1,7 @@
 # bottle_flip_simulation
 bottle flipping simulation for the IYPT 2018 question of water bottle
 
-# <Access the simulation by clicking on the window>
+<Access the simulation by clicking on the window>
 
 # Constants
 gravity = vector(0, -9.8, 0)  # Standard gravity in m/s^2
